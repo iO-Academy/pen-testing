@@ -48,6 +48,11 @@
 
 - What is it?
 > The ability to send commands to a server and have them execute. This is usually done through forms on a webpage
+- Bash
+   - `cat`
+   - `whoami`
+   - `find`
+   - `;` splits bash commands
 
 [EXERCISE:] [Command Execution](https://immersivelabs.online/labs/command-execution/role/web-application-penetration-tester-beginner/series/web-app-hacking)
 
