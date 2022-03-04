@@ -49,9 +49,13 @@
 - What is it?
 > The ability to send commands to a server and have them execute. This is usually done through forms on a webpage
 - Bash
+   - [For practice](https://replit.com/new/bash)
+   - `cd`
+   - `ls`
+   - `touch`
    - `cat`
    - `whoami`
-   - `find`
+   - `find` - [Examples](https://www.diskinternals.com/linux-reader/bash-find-command/)
    - `;` splits bash commands
 
 [EXERCISE:] [Command Execution](https://immersivelabs.online/labs/command-execution/role/web-application-penetration-tester-beginner/series/web-app-hacking)
@@ -66,18 +70,45 @@ Tool: https://meyerweb.com/eric/tools/dencoder/
 
 #### XSS
 
-    - Reflected: form injection that executes code back to the user who inputs it
+- What is it?
+   - Reflected
+      - Form injection that executes code back to the user who inputs it
+   - Stored
+      - Form injection that saves executable code, and executes it later, potentially for multiple/all users
+- JavaScript
+- Sanitisation
+   - `htmlspecialchars`
+- [EXERCISE:]  [PHP Stored XSS](https://immersivelabs.online/labs/php-stored-cross-site-scripting/)
 
 #### SQL Injection
 
+- What is SQL?
+- DML
+   - SELECT
+   - WHERE
+      - = < > LIKE
+   - ORDER BY | ASC | DESC
+   - LIMIT
+
+- [EXERCISE:] (Introduction to SQL)[https://immersivelabs.online/labs/introduction-to-sql/]
+
 #### Session hijacking
+
+- What is it?
 
 #### Directory Traversal
 
-[EXERCISE:] [Directory Traversal](https://immersivelabs.online/labs/web-applications-directory-traversal/role/web-application-penetration-tester-beginner/series/web-app-hacking)
+- What is it?
+- Linux common directories
+   - `/usr` - Linux user directories
+   - `/etc` - Linux configuration files
+   - `/var/www` or `/var/www/html` - Web application files
+- [EXERCISE:] [Directory Traversal](https://immersivelabs.online/labs/web-applications-directory-traversal/role/web-application-penetration-tester-beginner/series/web-app-hacking)
 
 #### Social Engineering
 
+- What is it?
+   - [Video](https://www.youtube.com/watch?v=lc7scxvKQOo)
 
 ### Identifying risks
 - Low
