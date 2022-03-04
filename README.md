@@ -120,7 +120,7 @@ Tool: https://meyerweb.com/eric/tools/dencoder/
 
 
 ## FINAL PROJECT
-Hack Your First Web App: Ep.6 — Taking the Lead
+[Taking the Lead](https://immersivelabs.online/labs/hack-your-first-webapp-ep-6-taking-the-lead/)
 
 #### Report
 Write a report of the investigation carried out - 2000 words
