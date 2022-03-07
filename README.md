@@ -48,6 +48,7 @@
    - HTTP
 - Cookies
 - Console
+- Debugger
 [EXERCISE:] [Web Applications: Page Source Review](https://immersivelabs.online/labs/web-applications-source-code-review/role/web-application-penetration-tester-beginner/series/web-app-hacking)  
 [EXERCISE:] [Hack Your First Web App: Ep.3 — Low-Risk Vulnerabilities](https://immersivelabs.online/labs/hack-your-first-webapp-ep-3-low-risk-vulnerabilities/category/offensive/series/hack-your-first-web-application)
 
@@ -76,6 +77,7 @@
    - `cat`
    - `whoami`
    - `find` - [Examples](https://www.diskinternals.com/linux-reader/bash-find-command/)
+   - `ping`
    - `;` splits bash commands
 
 [EXERCISE:] [Command Execution](https://immersivelabs.online/labs/command-execution/role/web-application-penetration-tester-beginner/series/web-app-hacking)
@@ -120,7 +122,7 @@ Tool: https://meyerweb.com/eric/tools/dencoder/
    - ORDER BY | ASC | DESC
    - LIMIT
 
-- [EXERCISE:] (Introduction to SQL)[https://immersivelabs.online/labs/introduction-to-sql/]
+- [EXERCISE:] [Introduction to SQL](https://immersivelabs.online/labs/introduction-to-sql/)
 
 #### Session hijacking
 
@@ -148,6 +150,10 @@ Tool: https://meyerweb.com/eric/tools/dencoder/
 
 ## FINAL PROJECT
 [Taking the Lead](https://immersivelabs.online/labs/hack-your-first-webapp-ep-6-taking-the-lead/)
+- *Useful links:*
+   - https://infinitelogins.com/2020/02/22/how-to-brute-force-websites-using-hydra/
+   - https://securitytutorials.co.uk/brute-forcing-passwords-with-thc-hydra/
+   - https://linuxize.com/post/linux-ping-command/
 
 #### Report
 Write a report of the investigation carried out - 2000 words
