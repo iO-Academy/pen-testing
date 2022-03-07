@@ -34,7 +34,11 @@
    - Low
    - Medium
    - High
+
+![Risk](risk.png)
+
 - Vulnerability chains
+
 
 ### Attack Vectors
 
