@@ -29,6 +29,13 @@
 - Scope
 - What is Red Teaming?
 
+### Identifying risks
+- Chance vs Impact
+   - Low
+   - Medium
+   - High
+- Vulnerability chains
+
 ### Attack Vectors
 
 #### Source Code Review
@@ -108,18 +115,14 @@ Tool: https://meyerweb.com/eric/tools/dencoder/
    - `/var/www` or `/var/www/html` - Web application files
 - [EXERCISE:] [Directory Traversal](https://immersivelabs.online/labs/web-applications-directory-traversal/role/web-application-penetration-tester-beginner/series/web-app-hacking)
 
+#### Homework
+[EXERCISE:]  
+[Hack Your First Web App: Ep.3 — Low-Risk Vulnerabilities](https://immersivelabs.online/labs/hack-your-first-webapp-ep-3-low-risk-vulnerabilities/category/offensive/series/hack-your-first-web-application)
+
 #### Social Engineering
 
 - What is it?
    - [Video](https://www.youtube.com/watch?v=lc7scxvKQOo)
-
-### Identifying risks
-- Low
-  - [EXERCISE]: Hack Your First Web App: Ep.3 — Low-Risk Vulnerabilities
-- Medium
-  - [EXERCISE]: Hack Your First Web App: Ep.4 — Medium-Risk Vulnerabilities
-- High
-  - [EXERCISE]: Hack Your First Web App: Ep.5 — High-Risk Vulnerabilities
 
 
 ## FINAL PROJECT
