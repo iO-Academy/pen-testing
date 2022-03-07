@@ -8,6 +8,9 @@
 
 ## Programme
 
+![WARNING](https://via.placeholder.com/220x90/FFFFFF/FF0000?text=WARNING)  
+**Attacking an application without prior authorization is illegal!**
+
 ### What is penetration testing?
 
 - Process:
