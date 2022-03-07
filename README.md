@@ -43,7 +43,13 @@
 ### Attack Vectors
 
 #### Source Code Review
-[EXERCISE:] [Web Applications: Page Source Review](https://immersivelabs.online/labs/web-applications-source-code-review/role/web-application-penetration-tester-beginner/series/web-app-hacking)
+- Dev tools
+- Network requests
+   - HTTP
+- Cookies
+- Console
+[EXERCISE:] [Web Applications: Page Source Review](https://immersivelabs.online/labs/web-applications-source-code-review/role/web-application-penetration-tester-beginner/series/web-app-hacking)  
+[EXERCISE:] [Hack Your First Web App: Ep.3 — Low-Risk Vulnerabilities](https://immersivelabs.online/labs/hack-your-first-webapp-ep-3-low-risk-vulnerabilities/category/offensive/series/hack-your-first-web-application)
 
 #### Sensitive Data Exposure
 
@@ -85,14 +91,24 @@ Tool: https://meyerweb.com/eric/tools/dencoder/
 #### XSS
 
 - What is it?
-   - Reflected
+   - Reflected/Self
       - Form injection that executes code back to the user who inputs it
    - Stored
       - Form injection that saves executable code, and executes it later, potentially for multiple/all users
+- Form inputs
+- URL parameters
+   - [Try it](https://www.bathcollege.ac.uk/)
+- Cookies
 - JavaScript
+   - [Alerts](https://www.w3schools.com/js/js_popup.asp)
+   - [Events](https://www.w3schools.com/jsref/dom_obj_event.asp)
+   - [Cookies](https://www.w3schools.com/js/js_cookies.asp)
+   - [Location](https://www.w3schools.com/js/js_window_location.asp)
+   - [Navigator](https://www.w3schools.com/js/js_window_navigator.asp)
+   - [EXERCISE:] [Cross-Site Scripting (XSS) – Reflected](https://immersivelabs.online/labs/cross-site-scripting-xss-reflected/)  
 - Sanitisation
-   - `htmlspecialchars`
-- [EXERCISE:]  [PHP Stored XSS](https://immersivelabs.online/labs/php-stored-cross-site-scripting/)
+   - PHP: `htmlspecialchars`
+- [EXERCISE:] [PHP Stored XSS](https://immersivelabs.online/labs/php-stored-cross-site-scripting/)
 
 #### SQL Injection
 
@@ -121,7 +137,8 @@ Tool: https://meyerweb.com/eric/tools/dencoder/
 
 #### Homework
 [EXERCISE:]  
-[Hack Your First Web App: Ep.3 — Low-Risk Vulnerabilities](https://immersivelabs.online/labs/hack-your-first-webapp-ep-3-low-risk-vulnerabilities/category/offensive/series/hack-your-first-web-application)
+[Hack Your First Web App: Ep.4 — Medium-Risk Vulnerabilities](https://immersivelabs.online/labs/hack-your-first-webapp-ep-4-medium-risk-vulnerabilities/category/offensive/series/hack-your-first-web-application)
+[Hack Your First Web App: Ep.5 — High-Risk Vulnerabilities](https://immersivelabs.online/labs/hack-your-first-webapp-ep-5-high-risk-vulnerabilities/category/offensive/series/hack-your-first-web-application)
 
 #### Social Engineering
 
