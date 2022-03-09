@@ -49,6 +49,7 @@
 - Cookies
 - Console
 - Debugger
+
 [EXERCISE:] [Web Applications: Page Source Review](https://immersivelabs.online/labs/web-applications-source-code-review/role/web-application-penetration-tester-beginner/series/web-app-hacking)  
 [EXERCISE:] [Hack Your First Web App: Ep.3 — Low-Risk Vulnerabilities](https://immersivelabs.online/labs/hack-your-first-webapp-ep-3-low-risk-vulnerabilities/category/offensive/series/hack-your-first-web-application)
 
