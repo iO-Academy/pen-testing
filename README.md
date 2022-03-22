@@ -111,7 +111,7 @@ Tool: https://meyerweb.com/eric/tools/dencoder/
    - [EXERCISE:] [Cross-Site Scripting (XSS) – Reflected](https://immersivelabs.online/labs/cross-site-scripting-xss-reflected/)  
 - Sanitisation
    - PHP: `htmlspecialchars`
-- [EXERCISE:] [PHP Stored XSS](https://immersivelabs.online/labs/php-stored-cross-site-scripting/)
+- [Bonus EXERCISE:] [PHP Stored XSS](https://immersivelabs.online/labs/php-stored-cross-site-scripting/)
 
 #### SQL Injection
 
