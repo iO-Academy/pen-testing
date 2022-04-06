@@ -140,7 +140,7 @@ Tool: https://meyerweb.com/eric/tools/dencoder/
 
 #### Homework
 [EXERCISE:]  
-[Hack Your First Web App: Ep.4 — Medium-Risk Vulnerabilities](https://immersivelabs.online/labs/hack-your-first-webapp-ep-4-medium-risk-vulnerabilities/category/offensive/series/hack-your-first-web-application)
+[Hack Your First Web App: Ep.4 — Medium-Risk Vulnerabilities](https://immersivelabs.online/labs/hack-your-first-webapp-ep-4-medium-risk-vulnerabilities/category/offensive/series/hack-your-first-web-application)  
 [Hack Your First Web App: Ep.5 — High-Risk Vulnerabilities](https://immersivelabs.online/labs/hack-your-first-webapp-ep-5-high-risk-vulnerabilities/category/offensive/series/hack-your-first-web-application)
 
 ### OWASP
